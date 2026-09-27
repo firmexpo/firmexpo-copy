@@ -1,0 +1,8 @@
+{
+  "name": "Firm Expo",
+  "description": "Firm Expo is a digital exposition platform giving companies a permanent, explorable exhibit for their innovations, goals, and displays.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
